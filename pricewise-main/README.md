@@ -15,7 +15,7 @@
   <h3 align="center">A Ecom Price Tracking Application</h3>
 
   <div align="center">
-    Build this project step by step with our detailed tutorial.
+    Build this project step by step with  my detailed tutorial.
   </div>
 </div>
 
@@ -30,8 +30,7 @@
 7. 🚀 [More](#more)
 
 ## <a name="introduction">🤖 Introduction</a>
-
-Developed using Next.js and Bright Data's webunlocker, this e-commerce product scraping site is designed to assist users in making informed decisions. It notifies users when a product drops in price and helps competitors by alerting them when the product is out of stock, all managed through cron jobs.
+ Hi , I'am Gaurav Rawat and i have developed this project using Next.js and Bright Data's webunlocker, this e-commerce product scraping site is designed to assist users in making informed decisions. It notifies users when a product drops in price and helps competitors by alerting them when the product is out of stock, all managed through cron jobs.
 
 If you're getting started and need assistance or face any bugs, join our active Discord community with over 27k+ members. It's a place where people help each other out.
 
@@ -74,9 +73,3 @@ Make sure you have the following installed on your machine:
 - [Git](https://git-scm.com/)
 - [Node.js](https://nodejs.org/en)
 - [npm](https://www.npmjs.com/) (Node Package Manager)
-
-**Cloning the Repository**
-
-```bash
-git clone https://github.com/adrianhajdin/pricewise.git
-cd pricewise
